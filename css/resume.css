@@ -190,3 +190,23 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.heading-link {
+  padding-left: 20px;
+  font-size: 35%;
+  text-transform: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.portfolio-img-left {
+  max-width: 48%;
+  padding-right: 10px;
+}
+
+.portfolio-img-right {
+  max-width: 48%;
+  padding-left: 10px;
+}
